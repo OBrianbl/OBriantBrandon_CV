@@ -6,3 +6,6 @@ This PDF form of my current CV. Gets updated every month as projects and course 
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/OBrianbl/Resume/blob/master/Brandon-OBriant-Resume.pdf">Download RESUME</a>.</p>
     </embed>
 </object>
+
+
+<br><br><a href="https://obrianbl.github.io/">Return to Main Page</a>
