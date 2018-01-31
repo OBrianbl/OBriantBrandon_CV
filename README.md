@@ -1,5 +1,5 @@
-## Current CV
-This CV gets updated every month as projects and course work progress. If you have any questions regaurding my work please do not hesitate to contact me.  
+
+**This CV gets updated every month as projects and course work progress. If you have any questions regaurding my work please do not hesitate to contact me.**  
 
 ### BRANDON O’BRIANT 
 
@@ -9,7 +9,7 @@ This CV gets updated every month as projects and course work progress. If you ha
 
 #### PROFILE
 
-Data scientist with a strong machine learning and predictive analytics background, 3+ years of experience in SQL, R, Python, C++, and logical data modeling, and solid skills in programming and strategic planning. Passionate about statistics, mathematics, risk estimation, computational science and modeling, and explaining data science to non-technical business audiences. He has developed solid skills to provide reports, analyze data, manage records, and coordinate with a variety of teams. Committed to the highest quality and research accuracy, he builds productive relationships with all stakeholders and organizes timelines and methodologies to achieve common goals.  
+Data scientist with a strong machine learning and predictive analytics background, 3+ years of experience in **SQL**, **R**, **Python**, C++, and logical data modeling, and solid skills in programming and strategic planning. Passionate about statistics, mathematics, risk estimation, computational science and modeling, and explaining data science to non-technical business audiences. He has developed solid skills to provide reports, analyze data, manage records, and coordinate with a variety of teams. Committed to the highest quality and research accuracy, he builds productive relationships with all stakeholders and organizes timelines and methodologies to achieve common goals.  
 
 #### DATA SCIENCE PROJECTS 
 
