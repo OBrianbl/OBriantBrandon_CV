@@ -69,5 +69,5 @@ Associates of Arts (Mathematics Focus)
 
 <br> 
 
-<a href="https://obrianbl.github.io/OBriantBrandon_CV/" class="nav-link">Download CV</a>
+<a href="https://github.com/OBrianbl/OBriantBrandon_CV/blob/master/OBriant_Brandon_CV.pdf" class="nav-link">Download CV</a>
 <br><br><a href="https://obrianbl.github.io/">Return to Main Page</a>
