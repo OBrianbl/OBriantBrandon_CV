@@ -1,21 +1,6 @@
-<<<<<<< HEAD
+
 ## Current CV
 This CV gets updated every month as projects and course work progress. If you have any questions regaurding my work please do not hesitate to contact me.  
-
-### BRANDON O’BRIANT 
-
-8620 Haviland Ave SW, Lakewood, WA 98498 253-389-8507 | <a href="mailto:obrianbl@protonmail.com">
-				obrinabl@protonmail.com
-			</a> | <a href="https://www.linkedin.com/in/brandonobriant/" class="nav-link">LinkedIn</a> | <a href="https://obrianbl.github.io/"> Portfolio</a>
-
-<br>
-
-#### PROFILE
-
-Data scientist with a strong machine learning and predictive analytics background, 3+ years of experience in SQL, R, Python, C++, and logical data modeling, and solid skills in programming and strategic planning. Passionate about statistics, mathematics, risk estimation, computational science and modeling, and explaining data science to non-technical business audiences. He has developed solid skills to provide reports, analyze data, manage records, and coordinate with a variety of teams. Committed to the highest quality and research accuracy, he builds productive relationships with all stakeholders and organizes timelines and methodologies to achieve common goals.  
-=======
-
-**This CV gets updated every month as projects and course work progress. If you have any questions regaurding my work please do not hesitate to contact me.**  
 
 ### BRANDON O’BRIANT 
 
@@ -26,7 +11,6 @@ Data scientist with a strong machine learning and predictive analytics backgroun
 #### PROFILE
 
 Data scientist with a strong machine learning and predictive analytics background, 3+ years of experience in **SQL**, **R**, **Python**, C++, and logical data modeling, and solid skills in programming and strategic planning. Passionate about statistics, mathematics, risk estimation, computational science and modeling, and explaining data science to non-technical business audiences. He has developed solid skills to provide reports, analyze data, manage records, and coordinate with a variety of teams. Committed to the highest quality and research accuracy, he builds productive relationships with all stakeholders and organizes timelines and methodologies to achieve common goals.  
->>>>>>> ce63203e5eb8c5e62f09d05cc5631887fcbf9185
 
 #### DATA SCIENCE PROJECTS 
 
@@ -86,9 +70,7 @@ Associates of Arts (Mathematics Focus)
 
 <br> 
 
-<<<<<<< HEAD
 <a href="https://obrianbl.github.io/OBriantBrandon_CV/" class="nav-link">Download CV</a>
 =======
 <a href="https://github.com/OBrianbl/OBriantBrandon_CV/blob/master/OBriant_Brandon_CV.pdf" class="nav-link">Download CV</a>
->>>>>>> ce63203e5eb8c5e62f09d05cc5631887fcbf9185
 <br><br><a href="https://obrianbl.github.io/">Return to Main Page</a>
